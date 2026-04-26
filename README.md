@@ -63,8 +63,8 @@ git clone https://www.github.com/durocsongor/audiofy_frontend_biztonsagi.git (Gi
 
 - Az admin jogú felhasználóknak az oldalba történő belépés után megjelenik egy új gomb "Admin oldal" névvel, ahol elérik a felhasználókat és a zenéket is.
  
-#### Jelenleg elérhető netlify-on
-| 🚀 Netlify | Netlify Deployed Page | [Megtekintés](https://csongi.netlify.app/) |
+#### 🚀 Netlify
+| Netlify Deployed Page | [Megtekintés](https://csongi.netlify.app/) |
 
 | Admin teszt | Admin:   | Jelszó:  |
 
