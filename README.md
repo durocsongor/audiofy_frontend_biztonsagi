@@ -59,7 +59,7 @@ git clone https://www.github.com/durocsongor/audiofy_frontend_biztonsagi.git (Gi
 ## 🛍️ Használat 
 - A regisztrációt követően a felhasználók saját fiókkal rendelkeznek, amin keresztül elérhetik a már feltöltött zenéket. A felhasználó kedve szerint játszhat le zenéket, vagy mentheti azokat a kedvelt zenéi közé. Az admin jogú felhasználók tölthetnek fel zenéket, törölhetnek vagy módosíthatnak felhasználók vagy éppen zenék nevét.
 
-- A kedvencek megtekintésekor a felhasználó csak az általa kedvelt zenéket találja az oldalon. A zene kártyán lévő kis szív ikonra kattintva bármikor leveheti fel felvehet új kedvenc zenéket is.
+- A kedvencek megtekintésekor a felhasználó csak az általa kedvelt zenéket találja az oldalon. A zene kártyán lévő kis szív ikonra kattintva bármikor levehet vagy felvehet új kedvenc zenéket is.
 
 - Az admin jogú felhasználóknak az oldalba történő belépés után megjelenik egy új gomb "Admin oldal" névvel, ahol elérik a felhasználókat és a zenéket is.
  
