@@ -83,26 +83,18 @@ git clone https://www.github.com/durocsongor/audiofy_frontend_biztonsagi.git (Gi
 - Bejelentkezéskor történik egy ellenőrzés, hogy a bejelentkező fiók admin-e vagy nem.
   Ha az az állítás igaz akkor az oldalon megjelenik egy "Admin oldal" névvel ellátott gomb, ahonnan az admin felületre dob az oldal.
 
-![image]()
-
 ### Home.jsx
 
 - Itt láthatóak a zenék és elérhetőek a menüpontok a kedvencek megtekintéséhez. (Adminnak az admin panel is)
 
-![image]()
-
 ### Like.jsx
 - Itt lehet megtekinteni a felhasználó által kedvelt zenéket és lehet törölni őket akár.
-
-
-![image]()![image]()
 
 ### Admin.jsx
 - Itt lehet módosítani a feltöltött zenéket és a felhasználók adatait is. Egy táblázatban látjuk a felhasználókat és alatta külön egy másik táblázatban láthatjuk a zenéket is.
 - Változtatható a felhasználó neve valamint jogosultsága.
 - Megtekinthetőek a feltöltött zenék és módosítható a neve valamint az előadója is.
 - A zenéket lehet törölni is.
-![image]()![image]()
 
 ## 📇 Fejlesztési lehetőségek
 
