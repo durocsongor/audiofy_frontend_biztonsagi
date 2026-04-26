@@ -85,9 +85,11 @@ git clone https://www.github.com/durocsongor/audiofy_frontend_biztonsagi.git (Gi
   Ha az az állítás igaz akkor az oldalon megjelenik egy "Admin oldal" névvel ellátott gomb, ahonnan az admin felületre dob az oldal.
 
   Bejelentkezés:
+  
   ![Alternatív szöveg](https://github.com/durocsongor/ooodify_kepek/blob/main/kepek/K%C3%A9perny%C5%91felv%C3%A9tel%20(44).png?raw=true)
   
   Regisztráció:
+  
   ![Alternatív szöveg](https://github.com/durocsongor/ooodify_kepek/blob/main/kepek/K%C3%A9perny%C5%91felv%C3%A9tel%20(45).png?raw=true)
 
 ### Home.jsx
@@ -95,9 +97,11 @@ git clone https://www.github.com/durocsongor/audiofy_frontend_biztonsagi.git (Gi
 - Itt láthatóak a zenék és elérhetőek a menüpontok a kedvencek megtekintéséhez. (Adminnak az admin panel is)
 
   Felhasználók esetében:
+  
   ![Alternatív szöveg](https://github.com/durocsongor/ooodify_kepek/blob/main/kepek/K%C3%A9perny%C5%91felv%C3%A9tel%20(46).png?raw=true)
 
   Admin esetében:
+  
   ![Alternatív szöveg](https://github.com/durocsongor/ooodify_kepek/blob/main/kepek/K%C3%A9perny%C5%91felv%C3%A9tel%20(48).png?raw=true)
   
 
@@ -113,6 +117,11 @@ git clone https://www.github.com/durocsongor/audiofy_frontend_biztonsagi.git (Gi
 - A zenéket lehet törölni is.
 
  ![Alternatív szöveg](https://github.com/durocsongor/ooodify_kepek/blob/main/kepek/K%C3%A9perny%C5%91felv%C3%A9tel%20(49).png?raw=true)
+
+ Az oldal mobilos nézetben:
+
+ ![Alternatív szöveg](https://github.com/durocsongor/ooodify_kepek/blob/main/kepek/K%C3%A9perny%C5%91felv%C3%A9tel%20(50).png?raw=true)
+ 
 
 ## 📇 Fejlesztési lehetőségek
 
