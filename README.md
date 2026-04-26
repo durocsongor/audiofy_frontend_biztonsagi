@@ -90,14 +90,22 @@ git clone https://www.github.com/durocsongor/audiofy_frontend_biztonsagi.git (Gi
 
 - Itt láthatóak a zenék és elérhetőek a menüpontok a kedvencek megtekintéséhez. (Adminnak az admin panel is)
 
+  
+  ![Alternatív szöveg](https://github.com/durocsongor/ooodify_kepek/blob/main/kepek/K%C3%A9perny%C5%91felv%C3%A9tel%20(46).png?raw=true)
+  
+
 ### Like.jsx
 - Itt lehet megtekinteni a felhasználó által kedvelt zenéket és lehet törölni őket akár.
+
+  ![Alternatív szöveg](https://github.com/durocsongor/ooodify_kepek/blob/main/kepek/K%C3%A9perny%C5%91felv%C3%A9tel%20(47).png?raw=true)
 
 ### Admin.jsx
 - Itt lehet módosítani a feltöltött zenéket és a felhasználók adatait is. Egy táblázatban látjuk a felhasználókat és alatta külön egy másik táblázatban láthatjuk a zenéket is.
 - Változtatható a felhasználó neve valamint jogosultsága.
 - Megtekinthetőek a feltöltött zenék és módosítható a neve valamint az előadója is.
 - A zenéket lehet törölni is.
+
+ ![Alternatív szöveg](https://github.com/durocsongor/ooodify_kepek/blob/main/kepek/K%C3%A9perny%C5%91felv%C3%A9tel%20(49).png?raw=true)
 
 ## 📇 Fejlesztési lehetőségek
 
