@@ -118,7 +118,7 @@ git clone https://www.github.com/durocsongor/audiofy_frontend_biztonsagi.git (Gi
 
  ![Alternatív szöveg](https://github.com/durocsongor/ooodify_kepek/blob/main/kepek/K%C3%A9perny%C5%91felv%C3%A9tel%20(49).png?raw=true)
 
- Az oldal mobilos nézetben:
+ ### Az oldal mobilos nézetben:
 
  ![Alternatív szöveg](https://github.com/durocsongor/ooodify_kepek/blob/main/kepek/K%C3%A9perny%C5%91felv%C3%A9tel%20(50).png?raw=true)
  
