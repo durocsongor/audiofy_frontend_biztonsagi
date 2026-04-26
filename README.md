@@ -7,7 +7,7 @@
 - [Telepítés](#telepítés)
 - [Használat](#használat)
 - [Dokumentáció](#dokumentáció)
-- [Fejlesztési lehetőségek](#fejlesztési-lehetőségek)
+- [Fejlesztési lehetőségek](#Fejlesztési-lehetőségek)
 
 ## 🏪 Bevezetés
 - Az OOODIFY egy olyan weboldal, ahol zenéket hallgathatsz vagy tölthetsz fel te magad is akár, bármikor! A felhasználók könnyedén böngészhetnek különböző műfajok között, kedvelhetnek zenéket és felfedezhetnek új előadókat, ami lehetővé teszi hogy mindenki gyorsan megtalálja a hangulatának megfelelő zenét.
