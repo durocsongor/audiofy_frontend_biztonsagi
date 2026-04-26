@@ -62,7 +62,8 @@ git clone https://www.github.com/durocsongor/audiofy_frontend_biztonsagi.git (Gi
 - A kedvencek megtekintésekor a felhasználó csak az általa kedvelt zenéket találja az oldalon. A zene kártyán lévő kis szív ikonra kattintva bármikor levehet vagy felvehet új kedvenc zenéket is.
 
 - Az admin jogú felhasználóknak az oldalba történő belépés után megjelenik egy új gomb "Admin oldal" névvel, ahol elérik a felhasználókat és a zenéket is.
- 
+
+ ## Dokumentáció
 #### 🚀 Netlify
 | Netlify Deployed Page | [Megtekintés](https://csongi.netlify.app/) |
 
@@ -70,7 +71,7 @@ git clone https://www.github.com/durocsongor/audiofy_frontend_biztonsagi.git (Gi
 
 | Felhasználó teszt | Felhasználó: 1  | Jelszó: 1  |
 
-## Dokumentáció
+
 | 🎞️ Figma | Dizájnt készítő alkalmazás |[Megtekintés](https://www.figma.com/design/xS6OXQawL5sDU8fKqCRybk/Untitled?node-id=0-1&t=FyUP40nWbCGs7OWw-1) |
 
 ### Register.jsx, Login.jsx,
