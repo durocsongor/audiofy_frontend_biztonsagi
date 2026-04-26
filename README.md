@@ -72,7 +72,7 @@ git clone https://www.github.com/durocsongor/audiofy_frontend_biztonsagi.git (Gi
 | Felhasználó teszt | Felhasználó: 1  | Jelszó: 1  |
 
 
-| 🎞️ Figma | Dizájnt készítő alkalmazás |[Megtekintés](https://www.figma.com/design/xS6OXQawL5sDU8fKqCRybk/Untitled?node-id=0-1&t=FyUP40nWbCGs7OWw-1) |
+| 🎞️ Figma | Dizájnt készítő alkalmazás | [Megtekintés](https://www.figma.com/design/xS6OXQawL5sDU8fKqCRybk/Untitled?node-id=0-1&t=FyUP40nWbCGs7OWw-1) |
 
 ### Register.jsx, Login.jsx,
 
