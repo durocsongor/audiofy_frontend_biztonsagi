@@ -66,12 +66,12 @@ git clone https://www.github.com/durocsongor/audiofy_frontend_biztonsagi.git (Gi
 #### Jelenleg elérhető netlify-on
 | 🚀 Netlify | Netlify Deployed Page | [Megtekintés](https://csongi.netlify.app/) |
 
-| Admin teszt | Admin:  | Jelszó:  |
+| Admin teszt | Admin:   | Jelszó:  |
 
-| Felhasználó teszt | Felhasználó:  | Jelszó:  |
+| Felhasználó teszt | Felhasználó: 1  | Jelszó: 1  |
 
 ## Dokumentáció
-| 🎞️ Figma | Dizájnt készítő alkalmazás |[Megtekintés]() |
+| 🎞️ Figma | Dizájnt készítő alkalmazás |[Megtekintés](https://www.figma.com/design/xS6OXQawL5sDU8fKqCRybk/Untitled?node-id=0-1&t=FyUP40nWbCGs7OWw-1) |
 
 ### Register.jsx, Login.jsx,
 
@@ -97,7 +97,7 @@ git clone https://www.github.com/durocsongor/audiofy_frontend_biztonsagi.git (Gi
 
 ![image]()![image]()
 
-### Admin felület
+### Admin.jsx
 - Itt lehet módosítani a feltöltött zenéket és a felhasználók adatait is. Egy táblázatban látjuk a felhasználókat és alatta külön egy másik táblázatban láthatjuk a zenéket is.
 - Változtatható a felhasználó neve valamint jogosultsága.
 - Megtekinthetőek a feltöltött zenék és módosítható a neve valamint az előadója is.
@@ -107,5 +107,7 @@ git clone https://www.github.com/durocsongor/audiofy_frontend_biztonsagi.git (Gi
 ## 📇 Fejlesztési lehetőségek
 
 ```markdown
-
+- Aktív lejátszasi lista
+- Saját profil oldal
+- Keresés funkció
 ```
