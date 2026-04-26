@@ -99,7 +99,7 @@ git clone https://www.github.com/durocsongor/audiofy_frontend_biztonsagi.git (Gi
 ## 📇 Fejlesztési lehetőségek
 
 ```markdown
-- Aktív lejátszasi lista
+- Aktív lejátszási lista
 - Saját profil oldal
 - Keresés funkció
 ```
